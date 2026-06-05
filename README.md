@@ -37,8 +37,8 @@ Uso de imagens externas
 
 ## Dashboard
 
-![Dashboard](IMG-DASHBOARD/Country_Analytics.png)
-![Dashboard](IMG-DASHBOARD/Global_Overview.png)
+![Dashboard](IMG-DASHBOARD/Country_Analytics.jpg)
+![Dashboard](IMG-DASHBOARD/Global_Overview.jpg)
 
 
 Autor
